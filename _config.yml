@@ -1,3 +1,6 @@
 title: Gideon_Data
-logo:assets/images/profile_pic.png
+logo:assets/images/Youtube analysis.png
+show_downloads: True
+remote_theme: pages-themes/cayman@v0.2.0
+plugins: - jekyll-remote-theme
 
